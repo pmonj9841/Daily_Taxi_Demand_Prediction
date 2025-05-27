@@ -1,4 +1,4 @@
-# Daily_Taxi_Demand_Prediction
+# Daily Demand Forecasting for Wheelchair-Accessible Taxies in Seoul
 
 This repository includes:
 1) project description(CallTaxiPPT.pdf)
